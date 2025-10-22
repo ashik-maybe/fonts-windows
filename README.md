@@ -1,4 +1,7 @@
-# 📁 Fonts from Windows 11 (22H2)
+# 📁 Fonts from Windows 11
+
+![Font Dump](https://img.shields.io/badge/Windows-11-blue)
+![Font Types](https://img.shields.io/badge/TTF%20%7C%20TTC%20%7C%20FON-included-black)
 
 This repository contains a comprehensive archive of font files extracted from Windows 11 version 22H2. It includes both legacy bitmap `.fon` fonts and modern TrueType/OpenType `.ttf` and `.ttc` fonts, organized for archival, reference, or integration into custom environments.
 
