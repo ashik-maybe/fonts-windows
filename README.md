@@ -37,7 +37,7 @@ These fonts are proprietary to Microsoft and are distributed with Windows 11. Re
 To clone and install the fonts directly into your local font directory:
 
 ```bash
-git clone --depth=1 --filter=blob:none --sparse https://github.com/ashik-maybe/fonts-from-windows-11-22h2.git /tmp/winfonts \
+git clone --depth=1 --filter=blob:none --sparse https://github.com/ashik-maybe/fonts-windows.git /tmp/winfonts \
 && cd /tmp/winfonts \
 && git sparse-checkout set Windows-11 \
 && mkdir -p ~/.local/share/fonts \
@@ -60,7 +60,7 @@ Bitmap `.fon` files may require legacy environments or emulators to function pro
 If you only want to install classic serif and sans-serif fonts (e.g., Georgia, Times New Roman, Arial, Verdana, Trebuchet MS), use this filtered install:
 
 ```bash
-git clone --depth=1 --filter=blob:none --sparse https://github.com/ashik-maybe/fonts-from-windows-11-22h2.git /tmp/winfonts \
+git clone --depth=1 --filter=blob:none --sparse https://github.com/ashik-maybe/fonts-windows.git /tmp/winfonts \
 && cd /tmp/winfonts \
 && git sparse-checkout set Windows-11 \
 && mkdir -p ~/.local/share/fonts \
