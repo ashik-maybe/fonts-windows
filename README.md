@@ -8,7 +8,7 @@ This repository contains a comprehensive archive of font files extracted from Wi
 ## 📦 Structure
 
 ```bash
-fonts-from-windows-11-22h2/
+fonts-windows/
 ├── README.md
 └── Windows-11/
     ├── *.fon          # Bitmap fonts (legacy DOS, VGA, OEM, CGA, EGA)
